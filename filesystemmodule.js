@@ -1,2 +1,2 @@
 var fs = require('fs')
-fs.readFile('calc.js','utf8',function())
+fs.readFile('calc.js','utf8')
